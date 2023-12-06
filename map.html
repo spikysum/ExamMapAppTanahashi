@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Google Maps Exam</title>
+    <meta charset="utf-8"/>
+    <link rel="stylesheet" href="./style.css">
+    <script src="response.js"></script>
+  </head>
+  <body>
+    <p>Tokyo Restaurant aroud Tokyo Metropolitan Government</p>
+
+    <div id="map" style="width:620px; height:400px"></div>
+
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script> 
+    <script type="text/javascript" src="map4.js">
+    </script>
+
+    <script async defer
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAOKjkkCV0-2ARjPVbfPyPcsUCV__mmMlo&callback=initMap">
+    </script>
+    
+    <dl id="panel">
+      <dt>Restaurant Type</dt>
+      <dd><div id="restaurantTypes">Click Mark</div></dd>
+    </dl>
+ 
+    <script>
+    $(function() {
+      $('#panel > dd').hide();
+      $('#panel > dt')
+        .click(function(e){
+          $('+dd', this).slideToggle(100);
+        })
+    });
+    </script>
+
+  </body>
+</html>
