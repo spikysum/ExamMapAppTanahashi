@@ -1,0 +1,688 @@
+{
+  "html_attributions": [],
+  "results": [
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.6908535,
+          "lng": 139.6912172
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.6923250802915,
+            "lng": 139.6929145802915
+          },
+          "southwest": {
+            "lat": 35.6896271197085,
+            "lng": 139.6902166197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Jade Garden",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 336,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108285947907022346614\">\u4e2d\u56fd\u6599\u7406\u300c\u7fe1\u7fe0\u5bae\u300d</a>"
+          ],
+          "photo_reference": "AWU5eFhD77lXAWCgfS0406hZ_rg3D5kB7t_x850CbFUsQNXWHtrVnRKBwjdsEZm5zVoPGH2Q198tyqB82rJ0wNlWBKJUoejR6FtENL5uflLIqf2ZYHhpE2i9IFJNmoMZ4BGeWvLzA91ue8lHj1JFfeBABvtqPcJsHz0cVGXFdxGSWXQsqCw",
+          "width": 448
+        }
+      ],
+      "place_id": "ChIJR3s9zSrzGGARp32UICZCSTM",
+      "plus_code": {
+        "compound_code": "MMRR+8F Shinjuku City, Tokyo, Japan",
+        "global_code": "8Q7XMMRR+8F"
+      },
+      "rating": 4.4,
+      "reference": "ChIJR3s9zSrzGGARp32UICZCSTM",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 209,
+      "vicinity": "2-ch\u014dme-7-2 Nishishinjuku, Shinjuku City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.6894683,
+          "lng": 139.6928838
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.6908172802915,
+            "lng": 139.6942327802915
+          },
+          "southwest": {
+            "lat": 35.68811931970851,
+            "lng": 139.6915348197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Koga",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110632059050808836154\">Kevin Wang</a>"
+          ],
+          "photo_reference": "AWU5eFiyw5SFK2nLsaxt5jGw5gk2YIgyZOiohfitlAPp5o1_3nlkMZk1CtWpSpl1P0Op40i-jwEHKHQnDWrdM3AVxVsR3jZZ8ct0P0oKBQm_3OeAR6CnoSEdryRj4wSEoA2Dle-SssD7t1974N15vo-z8E1UqbZs2NAlM1x0_uuqQKEpcJYs",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJoTcat9SMGGARuCAumMg0tMI",
+      "plus_code": {
+        "compound_code": "MMQV+Q5 Shinjuku City, Tokyo, Japan",
+        "global_code": "8Q7XMMQV+Q5"
+      },
+      "rating": 3.4,
+      "reference": "ChIJoTcat9SMGGARuCAumMg0tMI",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 39,
+      "vicinity": "2-ch\u014dme-8-8-1 Nishishinjuku, Shinjuku City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.688421,
+          "lng": 139.6934289
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.69002853029151,
+            "lng": 139.6946791802915
+          },
+          "southwest": {
+            "lat": 35.68733056970851,
+            "lng": 139.6919812197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Tonkatsu Ise Shinjuku NS Building",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109912267429293838157\">\uae40\ub9d0\ub625</a>"
+          ],
+          "photo_reference": "AWU5eFi-FGoqseh3S6ORkS9hD1fzDHmwP9d_FQuW-ainBG2BHtItdEgcocGzEoBDqEcdZJ1Cwz7pjnUwVWfy9sTQdZIXMWFyWKg6Ntt6s6JalAP2B8nOwfitIc3-Ix5tHUMlJgPhm9pDx8KIZKfeLlbaliZB0P980NUtOGjaeOn83cr3WTCM",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJXQ4NntOMGGAR1vUDBh1inok",
+      "plus_code": {
+        "compound_code": "MMQV+99 Shinjuku City, Tokyo, Japan",
+        "global_code": "8Q7XMMQV+99"
+      },
+      "price_level": 2,
+      "rating": 3.8,
+      "reference": "ChIJXQ4NntOMGGAR1vUDBh1inok",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 107,
+      "vicinity": "2-ch\u014dme-4-1 Nishishinjuku, Shinjuku City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.6910314,
+          "lng": 139.6909946
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.6923803802915,
+            "lng": 139.6923435802915
+          },
+          "southwest": {
+            "lat": 35.6896824197085,
+            "lng": 139.6896456197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "CAFF\u00c8\uff08\u30ab\u30d5\u30a7\uff09",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108887262210190048154\">CAFF\u00c8\uff08\u30ab\u30d5\u30a7\uff09</a>"
+          ],
+          "photo_reference": "AWU5eFjLI9NTVv_v2EhfPqYLu9fL4qqElAsKBC7KkemelddDBQibxOZEJM4Bih6YAR1NeYW7nmV1kkgW5OhDmpDSw-z7ZdA-s0D7VLIvovA9VAqsgc65H04sYZAqTEq9bqflfDRP3RloNcJEp3v4QXaWd-NosSJNA4KuRiFDbq3l_D_XPIS4",
+          "width": 1500
+        }
+      ],
+      "place_id": "ChIJDwlszSrzGGARmqnGp_OfS1E",
+      "plus_code": {
+        "compound_code": "MMRR+C9 Shinjuku City, Tokyo, Japan",
+        "global_code": "8Q7XMMRR+C9"
+      },
+      "price_level": 3,
+      "rating": 4.2,
+      "reference": "ChIJDwlszSrzGGARmqnGp_OfS1E",
+      "scope": "GOOGLE",
+      "types": [
+        "night_club",
+        "cafe",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 358,
+      "vicinity": "\u30cf\u30a4\u30a2\u30c3\u30c8 \u30ea\u30fc\u30b8\u30a7\u30f3\u30b7\u30fc \u6771\u4eac (Hyatt Regency Tokyo) \u30ed\u30d3\u30fc\u30d5\u30ed\u30a22F\u200e, 2-ch\u014dme-7\u2212\uff12 Nishishinjuku, Shinjuku City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.6895524,
+          "lng": 139.6931209
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.6909544302915,
+            "lng": 139.6947404802915
+          },
+          "southwest": {
+            "lat": 35.6882564697085,
+            "lng": 139.6920425197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Ise Metropolitan Government Office",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101141898025487686716\">\u671b\u6708\u5f18</a>"
+          ],
+          "photo_reference": "AWU5eFgwLqIyMSMa4DA6LhjyqO32o9YwdVF4_eazCWamA9KupFS1WMYQPrRt7LcU3G5cF5YeVJYkT0cZ25g_bztswL64O2nRDClTSoBgM5pwpfywl0cnU-shG_vqzAJI-xD_I8eW9A4KvNmhVrfCysdj4i7KM0AaVwdRLR5xBsXvBsDNsh0x",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJoTcat9SMGGARXdBrwnARzuE",
+      "plus_code": {
+        "compound_code": "MMQV+R6 Shinjuku City, Tokyo, Japan",
+        "global_code": "8Q7XMMQV+R6"
+      },
+      "price_level": 2,
+      "rating": 4.1,
+      "reference": "ChIJoTcat9SMGGARXdBrwnARzuE",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 106,
+      "vicinity": "2-ch\u014dme-8-1 Nishishinjuku, Shinjuku City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.6895014,
+          "lng": 139.6916925
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.69087468029149,
+            "lng": 139.6932090802915
+          },
+          "southwest": {
+            "lat": 35.68817671970849,
+            "lng": 139.6905111197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Tokyo Metropolitan Government Building No. 1 32nd Floor Staff Cafeteria",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114583258099781397167\">\u3077\u30fc\u3042\u30fc\u8def</a>"
+          ],
+          "photo_reference": "AWU5eFhQcgefdPbVm3PumiVA1ec5RmWmbpJyRoyxkeQs0Hd3wcRDjK6KrP8zQyIFi7T_8s5aPaOutIZPqjCb42PPCZAI8GlLYiqMMUOiD-xjlKyHYmIU8El7Y_zUkr1YQ_fuE8-BG2VxThxT-9zI_RKeCF8XPFNh1fWfR5jP9OAzR-ptAA9t",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJoTcat9SMGGAR91fLBBS1Szg",
+      "plus_code": {
+        "compound_code": "MMQR+RM Shinjuku City, Tokyo, Japan",
+        "global_code": "8Q7XMMQR+RM"
+      },
+      "price_level": 1,
+      "rating": 3.7,
+      "reference": "ChIJoTcat9SMGGAR91fLBBS1Szg",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 293,
+      "vicinity": "2-ch\u014dme-8-1 Nishishinjuku, Shinjuku City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.6894937,
+          "lng": 139.6930913
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.6909250802915,
+            "lng": 139.6947319802915
+          },
+          "southwest": {
+            "lat": 35.6882271197085,
+            "lng": 139.6920340197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Azabu Nagasaka Sarashina Main Store Metropolitan Government Assembly Building",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100822439650826135173\">Kiyotaka Horimoto</a>"
+          ],
+          "photo_reference": "AWU5eFgjAdOQm0JOV-LJgirKV8pvfVho-EcQzjn6_XJAxUgTPa1jWHHiVQ_Xh0JEKxpSu61_8SGomyH2Be3mrORLTt9oRWXywQ9oovOCbT0X30nM-2btyMEdcZ01XVIOG8bmljwaMN6qbOKVB6IcNE1kwciRVwIHi_-hrIQ8D8W8MecV11G5",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJoTcat9SMGGARu-kWznWUIIc",
+      "plus_code": {
+        "compound_code": "MMQV+Q6 Shinjuku City, Tokyo, Japan",
+        "global_code": "8Q7XMMQV+Q6"
+      },
+      "price_level": 2,
+      "rating": 3.5,
+      "reference": "ChIJoTcat9SMGGARu-kWznWUIIc",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 104,
+      "vicinity": "2-ch\u014dme-8-8-1 Nishishinjuku, Shinjuku City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.6894209,
+          "lng": 139.6928046
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.6907698802915,
+            "lng": 139.6941535802915
+          },
+          "southwest": {
+            "lat": 35.68807191970851,
+            "lng": 139.6914556197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Hou Ran Tei",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100579839246495647475\">J R</a>"
+          ],
+          "photo_reference": "AWU5eFjc6odbem9H_bTr9HjZAy4WxIOYN-n4695XjKnJotLsD6mgNVn2YcTZySDRBwNmPem-Diw8kAbX06Hh11a7fy5YOGFosv7tvielJTa5YOBJvEvVbB7ml505BeUw9V9KhDf2aPcCgQpdPb1B8VxjXzx8j4_eDAhESvbRAsgLs7tzolio",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJcQq9x3eNGGARtf87aRPSN6E",
+      "plus_code": {
+        "compound_code": "MMQV+Q4 Shinjuku City, Tokyo, Japan",
+        "global_code": "8Q7XMMQV+Q4"
+      },
+      "reference": "ChIJcQq9x3eNGGARtf87aRPSN6E",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "2-ch\u014dme-5 Nishishinjuku, Shinjuku City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.68969190000001,
+          "lng": 139.6930445
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.6910707802915,
+            "lng": 139.6946845802915
+          },
+          "southwest": {
+            "lat": 35.6883728197085,
+            "lng": 139.6919866197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Hourantei",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106407584739106680136\">\u30e4\u30de\u30e2\u30c8\u30bf\u30c4\u30e4</a>"
+          ],
+          "photo_reference": "AWU5eFhD638fzbNbWUuhrjLtNuYPWGiMerTRf14r0J5CccwdX8-Q7ns3HJO461e0e_v1tliariEnNFo6EDBggEXtbDHCEQDXFMImiW8PrLcK9t6xgm-fiHwzk-V1QjguZCfrVvkeW_kWumVZq8NRuTL0yednpRcohgKhEsCYZZ8KIOfOT2RF",
+          "width": 3120
+        }
+      ],
+      "place_id": "ChIJtccikdSMGGARekul6BRs8Y0",
+      "plus_code": {
+        "compound_code": "MMQV+V6 Shinjuku City, Tokyo, Japan",
+        "global_code": "8Q7XMMQV+V6"
+      },
+      "price_level": 2,
+      "rating": 3.3,
+      "reference": "ChIJtccikdSMGGARekul6BRs8Y0",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 73,
+      "vicinity": "\u90fd\u6c11\u5e83\u5834\u5730\u4e0b \u4e00\u968e, 2-ch\u014dme-8\u2212\uff11 Nishishinjuku, Shinjuku City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.6908535,
+          "lng": 139.6912172
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.6922929302915,
+            "lng": 139.6927684802915
+          },
+          "southwest": {
+            "lat": 35.6895949697085,
+            "lng": 139.6900705197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Shinjuku Nadaman",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109585722010794073351\">Hiroyuki S</a>"
+          ],
+          "photo_reference": "AWU5eFg3sEcVGC_iUM6Jm_H46SaYOIGW8ACY_uu7TLg4CRjXitIjoP4KA58eoakCZ2sC7o7BEtPYKF5_GOqLVSGgPbeddQH1eQU4aF7-TgPjqI-jJJXkbYcxMCTrrYqcc3F4CD7DorQ0inxCwtGnyT78t4ESTz8Rl33DIQFCl4EP7Nct6jQw",
+          "width": 2880
+        }
+      ],
+      "place_id": "ChIJ-dDhlm2LGGARBIoeY8S4bUU",
+      "plus_code": {
+        "compound_code": "MMRR+8F Shinjuku City, Tokyo, Japan",
+        "global_code": "8Q7XMMRR+8F"
+      },
+      "price_level": 3,
+      "rating": 3.9,
+      "reference": "ChIJ-dDhlm2LGGARBIoeY8S4bUU",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 19,
+      "vicinity": "\u30cf\u30a4\u30a2\u30c3\u30c8 \u30ea\u30fc\u30b8\u30a7\u30f3\u30b7\u30fc \u6771\u4eac 3\u968e, 2-ch\u014dme-7\u2212\uff12 Nishishinjuku, Shinjuku City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.6908535,
+          "lng": 139.6912172
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.6922929302915,
+            "lng": 139.6927684802915
+          },
+          "southwest": {
+            "lat": 35.6895949697085,
+            "lng": 139.6900705197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Teppanyaki Grill",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2333,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115293092285713566853\">\u9244\u677f\u713c\u30b0\u30ea\u30eb\uff08&quot;Teppanyaki Grill&quot;\uff09</a>"
+          ],
+          "photo_reference": "AWU5eFg5PCRLTN8yak41H7Y2njqw3pQb5Q-wvzTiH3yDjvidAzYWxCa9-D61cJ7piNGGX6LlcIPtRVHx-Rd584JAeQsWPdZJquY-4XLssL2Te5V01U8EoOu2sHE_jV9z1DCWuRi4uT50azNp6MoDv4WZZC2Q3oHPS4Y0Xfv8GTbOHbnQ4NEh",
+          "width": 3500
+        }
+      ],
+      "place_id": "ChIJrx2UmCWNGGARAQu3a4Y66gY",
+      "plus_code": {
+        "compound_code": "MMRR+8F Shinjuku City, Tokyo, Japan",
+        "global_code": "8Q7XMMRR+8F"
+      },
+      "rating": 4.6,
+      "reference": "ChIJrx2UmCWNGGARAQu3a4Y66gY",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 8,
+      "vicinity": "\u30cf\u30a4\u30a2\u30c3\u30c8 \u30ea\u30fc\u30b8\u30a7\u30f3\u30b7\u30fc \u6771\u4eac (Hyatt Regency Tokyo) 3F, 2-ch\u014dme-7\u2212\uff12 Nishishinjuku, Shinjuku City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.6880032,
+          "lng": 139.6921846
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.68955568029151,
+            "lng": 139.6930835302915
+          },
+          "southwest": {
+            "lat": 35.68685771970851,
+            "lng": 139.6903855697085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Tokyo Metropolitan Government Building No. 2 Staff Cafeteria",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116542227086265923660\">Jumpei</a>"
+          ],
+          "photo_reference": "AWU5eFiFkwut1cJhQq_JpsPKipMuksK_nuKx08Xp_O_UQNokJkytPU7uXcBFKsYAj18WcDejRft3IoHygCU6lHYlpS__Jh5BYYXiWmSYDwgItqW56kxSOr2kpS7eH6BuLZ5FWKAhgUsXnDyapUUZgl2mNNpDVrdTwVrBm8myF8ud6VM8AoqP",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJ41_0XNOMGGARESfrbYz2_AI",
+      "plus_code": {
+        "compound_code": "MMQR+6V Shinjuku City, Tokyo, Japan",
+        "global_code": "8Q7XMMQR+6V"
+      },
+      "price_level": 1,
+      "rating": 3.4,
+      "reference": "ChIJ41_0XNOMGGARESfrbYz2_AI",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 120,
+      "vicinity": "2-ch\u014dme-8-1 Nishishinjuku, Shinjuku City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 35.6909473,
+          "lng": 139.6913182
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 35.6923398302915,
+            "lng": 139.6928189802915
+          },
+          "southwest": {
+            "lat": 35.6896418697085,
+            "lng": 139.6901210197085
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Hyatt Regency Club Lounge",
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101827544393066516766\">Saifu Angto</a>"
+          ],
+          "photo_reference": "AWU5eFiBj3iWPVRzacSD-GXbuTn7JO7X4mye96kKcxSGpKFTSs3L0JQfsJudQUnrQTEsbE8hj1JKq5LIKWABjILgjyr_DUqAR2AOH9eiuEQlu21m1OokmhdYWx6yzMUDrMAd_7LF6FUeW7P1Nabqrq664zwhmamkxNFr7Qo2X0oKS0gtxHdj",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJG4npwHaNGGARp80ZPFcaWqs",
+      "plus_code": {
+        "compound_code": "MMRR+9G Shinjuku City, Tokyo, Japan",
+        "global_code": "8Q7XMMRR+9G"
+      },
+      "rating": 4.3,
+      "reference": "ChIJG4npwHaNGGARp80ZPFcaWqs",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "2-ch\u014dme-7-2 Nishishinjuku, Shinjuku City"
+    }
+  ],
+  "status": "OK"
+}

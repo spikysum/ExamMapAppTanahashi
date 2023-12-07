@@ -1,0 +1,312 @@
+{
+  "places": [
+    {
+      "types": [
+        "restaurant",
+        "spanish_restaurant",
+        "food",
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Japan, 〒160-0023 Tokyo, Shinjuku City, Nishishinjuku, 4-chōme−31−１ ザ ノット 東京新宿 １階",
+      "displayName": {
+        "text": "MORETHAN TAPAS LOUNGE",
+        "languageCode": "ja"
+      }
+    },
+    {
+      "types": [
+        "seafood_restaurant",
+        "japanese_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Japan, 〒160-0023 Tokyo, Shinjuku City, Nishishinjuku, 3-chōme−2−９ 新宿ワシントンホテル 一階",
+      "displayName": {
+        "text": "Zauo Shinjuku",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "bakery",
+        "sandwich_shop",
+        "cafe",
+        "meal_takeaway",
+        "store",
+        "wholesaler",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Japan, 〒160-0023 Tokyo, Shinjuku City, Nishishinjuku, 4-chōme−31−１, The Knot Tokyo Shinjuku, 1F",
+      "displayName": {
+        "text": "MORETHAN BAKERY",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Japan, 〒163-0402 Tokyo, Shinjuku City, Nishishinjuku, 2-chōme−1−１ 新宿三井ビル ２Ｆ",
+      "displayName": {
+        "text": "Sizzler Shinjuku Mitsui Building",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "cafe",
+        "sandwich_shop",
+        "coffee_shop",
+        "breakfast_restaurant",
+        "meal_takeaway",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "2-chōme-11-5 Nishishinjuku, Shinjuku City, Tokyo 160-0023, Japan",
+      "displayName": {
+        "text": "Musashino Mori Diner Shinjuku Central Park",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "japanese_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Japan, 〒160-0023 Tokyo, Shinjuku City, Nishishinjuku, 1-chōme−13−８ Le Ciel 西新宿館",
+      "displayName": {
+        "text": "Tonchinkan",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "japanese_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Japan, 〒160-0023 Tokyo, Shinjuku City, Nishishinjuku, 1-chōme−12−７ 第２清新ビル 3F",
+      "displayName": {
+        "text": "炉端とおでん 呼炉凪来",
+        "languageCode": "ja"
+      }
+    },
+    {
+      "types": [
+        "ramen_restaurant",
+        "japanese_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Japan, 〒160-0023 Tokyo, Shinjuku City, Nishishinjuku, 1-chōme−13−６ 西新宿ビル 1F",
+      "displayName": {
+        "text": "Tokyo Abura Soba",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "coffee_shop",
+        "cafe",
+        "meal_takeaway",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Japan, 〒163-0590 Tokyo, Shinjuku City, Nishishinjuku, 1-chōme−26−2, SHINJUKU NOMURA BUILDING, B1F",
+      "displayName": {
+        "text": "Paul Bassett Shinjuku",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "japanese_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Japan, 〒163-0490 Tokyo, Shinjuku City, Nishishinjuku, 2-chōme−1−１ 新宿三井ﾋﾞﾙ B1F",
+      "displayName": {
+        "text": "Marugame Seimen Shinjuku Mitsui Building",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "breakfast_restaurant",
+        "japanese_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Japan, 〒160-0023 Tokyo, Shinjuku City, Nishishinjuku, 1-chōme−15−９, Kc Bld., 1F",
+      "displayName": {
+        "text": "Shinpachi Shokudo Shinjuku",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "coffee_shop",
+        "cafe",
+        "meal_takeaway",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Japan, 〒160-0023 Tokyo, Shinjuku City, Nishishinjuku, 2-chōme−11−５ ＳＨＵＫＮＯＶＡ １階",
+      "displayName": {
+        "text": "Starbucks Coffee - Shinjuku Central Park SHUKNOVA",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "italian_restaurant",
+        "pizza_restaurant",
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Japan, 〒163-0590 Tokyo, Shinjuku City, Nishishinjuku, 1-chōme−26−２ 新宿野村ビルB１F",
+      "displayName": {
+        "text": "Pizza Salvatore Cuomo & Bar Shinjuku",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "japanese_restaurant",
+        "banquet_hall",
+        "event_venue",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Japan, 〒160-0023 Tokyo, Shinjuku City, Nishishinjuku, 1-chōme−25−１, Shinjuku Center Building Annex, 1～2F",
+      "displayName": {
+        "text": "Oto Oto Shinjuku Center Bldg.",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Japan, 〒160-0023 Tokyo, Shinjuku City, Nishishinjuku, 6-chōme−14−１ 新宿グリーンタワービル ２Ｆ",
+      "displayName": {
+        "text": "Denny's Shinjuku Chuokoen",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "cafe",
+        "coffee_shop",
+        "meal_takeaway",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Japan, 〒160-0023 Tokyo, Shinjuku City, Nishishinjuku, 1-chōme−23−７ １階",
+      "displayName": {
+        "text": "Komeda's Coffee Shinjuku First West",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "korean_restaurant",
+        "japanese_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Japan, 〒160-0023 Tokyo, Shinjuku City, Nishishinjuku, 2-chōme−7−１ 小田急第一生命ビル １階",
+      "displayName": {
+        "text": "Ningyocho Imahan Odakyū Dai-ichi Seimei Building",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "american_restaurant",
+        "restaurant",
+        "food",
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Park Hyatt Tokyo, 52階, 3-chōme-7-1-2 Nishishinjuku, Shinjuku City, Tokyo 163-1055, Japan",
+      "displayName": {
+        "text": "New York Grill",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Japan, 〒160-0023 Tokyo, Shinjuku City, Nishishinjuku, 2-chōme−1−１ 新宿三井ビル 1F",
+      "displayName": {
+        "text": "Royal Host Shinjuku Mitsui Building",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "italian_restaurant",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Japan, 〒160-0023 Tokyo, Shinjuku City, Nishishinjuku, 1-chōme−25−１, Shinjuku Center Building, MB1F",
+      "displayName": {
+        "text": "Al Dente Shinjuku Center Building",
+        "languageCode": "en"
+      }
+    }
+  ]
+}

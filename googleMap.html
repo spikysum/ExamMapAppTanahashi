@@ -1,0 +1,131 @@
+<!--以下JavaScript-->
+<script>
+    var array0 = [['marker','latitude','longitude']];
+    var table  = array0;
+    
+    // 場所選択時における画面遷移
+    function move(st_lat,st_lng) {
+      // マップの初期化
+      var map = new google.maps.Map(document.getElementById('map'), {
+      zoom: 19,
+      center: {lat: st_lat, lng: st_lng},
+      mapTypeId: google.maps.MapTypeId.SATELLITE ,
+      });
+      // クリックイベントを追加
+      map.addListener('click', function(e) {
+        getClickLatLng(e.latLng, map);
+      });
+    }
+    
+    
+    function calcBmi(){
+      var place = document.getElementById('place').value;
+      // ここの座標かえるだけでいろいろ応用可能
+      if(place == 'oyama'){
+        move(36.318940,139.842150);// 小山高専
+      }else if(place=='tsukuba'){
+        move(36.080349,140.115203);// つくばチャレンジ会場
+      }else if(place=='daigaku'){
+        move(36.109101,140.103641); // 筑波大学キャンパス
+      }
+    }
+    
+    
+    var click_count = 0;
+    function initMap() {
+      // マップの初期化
+      var map = new google.maps.Map(document.getElementById('map'), {
+      zoom: 19,
+      center: {lat:36.38992, lng: 139.06065},
+      mapTypeId: google.maps.MapTypeId.SATELLITE ,
+      });
+    
+      // クリックイベントを追加
+      map.addListener('click', function(e) {
+        getClickLatLng(e.latLng, map);
+      });
+    }
+    
+    
+    function getClickLatLng(lat_lng, map) {
+      click_count++;
+      str_cnt = String(click_count);
+      str_lat = String(lat_lng.lat());
+      str_lng = String(lat_lng.lng());
+      var array1 = [str_cnt, str_lat, str_lng];
+      array0.push(array1);
+    
+      // 座標を表示
+      document.getElementById('lat').textContent = lat_lng.lat();
+      document.getElementById('lng').textContent = lat_lng.lng();
+      document.getElementById('cnt').textContent = click_count;
+    
+      // マーカーを設置
+      var marker = new google.maps.Marker({
+        position: lat_lng,
+        map: map,
+        animation: google.maps.Animation.BOUNCE ,
+        opacity: 0.7,
+        label: {
+          text:""+click_count,
+          color: "white" ,
+          fontSize: "20px" ,
+        },
+        icon: {
+          url: "./fig/marker.png" ,
+          scaledSize: new google.maps.Size(15,30) ,
+        },
+      });
+      var size = new google.maps.Size( 200, 200 ) ;
+      // 座標の中心をずらす
+      map.panTo(lat_lng);
+    }
+    
+    // CSVファイルに出力するための関数
+    var downloadCsv = (function() {
+      var tableToCsvString = function(table) {
+        var str = '\uFEFF';
+          for (var i = 0, imax = table.length - 1; i <= imax; ++i) {
+            var row = table[i];
+            for (var j = 0, jmax = row.length - 1; j <= jmax; ++j) {
+              str += '"' + row[j].replace('"', '""') + '"';
+              if (j !== jmax) {
+                str += ',';
+              }
+            }
+            str += '\n';
+          }
+          return str;
+        };
+        var createDataUriFromString = function(str) {
+          return 'data:text/csv,' + encodeURIComponent(str);
+        }
+    
+    
+      var downloadDataUri = function(uri, filename) {
+        var link = document.createElement('a');
+        link.download = filename;
+        link.href = uri;
+        document.body.appendChild(link);
+        link.click();
+        document.body.removeChild(link);
+      };
+    
+      return function(table, filename) {
+        if (!filename) {
+          filename = 'output.csv';
+        }
+        var uri = createDataUriFromString(tableToCsvString(table));
+        downloadDataUri(uri, filename);
+      };
+    })();
+    
+    // CSVに出力
+    function save(){
+      downloadCsv(table);
+    }
+    </script>
+    
+    // Google Maps JavaScript API　（開発者向け）の呼び出し
+    <script src="https://maps.googleapis.com/maps/api/js?signed_in=true&callback=initMap" async defer></script>
+    
