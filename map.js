@@ -1,5 +1,6 @@
 let map, infoWindow;
 var start,end;
+let markers=[];
 
 function initMap() {
   var opts = {
@@ -47,6 +48,11 @@ function initMap() {
     
   });
 
+  const onChangeHandler = function () {
+    displayFilter(markers);
+  };
+  document.getElementById("foodType").addEventListener("change", onChangeHandler);
+
   const routeButton = document.createElement("button");
   routeButton.textContent = "Display Route";
   routeButton.classList.add("custom-map-control-button");
@@ -79,7 +85,8 @@ function add_marker(map){
     var infoWindow = new google.maps.InfoWindow({
             content: ins
     });
-    add_event_to_marker(marker,infoWindow,i)
+    markers[i] = marker
+    add_event_to_marker(marker,infoWindow,i);
   }
 }
 
@@ -95,6 +102,7 @@ function add_event_to_marker(marker, infoWindow, index) {
 
     item['marker'] = marker;
     item['infoWindow'] = infoWindow;
+
  
     item['marker'].addListener('click', function(e) {
         infoWindows_hide();
@@ -134,4 +142,16 @@ function calcRoute(directionsService, directionsRenderer) {
     directionsRenderer.setDirections(response);
   })
   .catch((e) => window.alert("Click Current Location and Restaurant Pin"));
+}
+
+function displayFilter(markers){
+  for (var i = 0; i < markers.length; i++){
+    var types=RESTAURANT_list[i]["types"]
+    console.log(types)
+    if (types.includes(document.getElementById("foodType").value)){
+      markers[i].setVisible(true);
+    }else{
+      markers[i].setVisible(false);
+    };
+  }
 }
