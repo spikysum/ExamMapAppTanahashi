@@ -73,8 +73,9 @@ function add_marker(map){
         ins += '</div>';
         ins += '<h1 id="firstHeading" class="firstHeading">'+item['displayName']["text"] + '</h1>';
         ins += '<div id="bodyContent">';
-        ins += item["formattedAddress"]
-        ins += '</div>';
+        ins += item["formattedAddress"]+'</div>';
+        ins += '<div>PhoneNumber : '+item["nationalPhoneNumber"]+'</div>';
+        ins += '<div>rating : '+item["rating"]+'</div>';
     var infoWindow = new google.maps.InfoWindow({
             content: ins
     });
