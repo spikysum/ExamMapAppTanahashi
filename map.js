@@ -21,6 +21,7 @@ function initMap() {
   locationButton.classList.add("custom-map-control-button");
   map.controls[google.maps.ControlPosition.LEFT_BOTTOM].push(locationButton);
 
+  //現在地表示　display current location
   locationButton.addEventListener("click", () => {
     // Try HTML5 geolocation.
     if (navigator.geolocation) {
@@ -65,6 +66,7 @@ function initMap() {
 
 }
 
+// マーカーの配置と情報ウィンドウの追加
 function add_marker(map){
   for (var i = 0; i < RESTAURANT_list.length; i++) {
     var item = RESTAURANT_list[i];
@@ -90,6 +92,7 @@ function add_marker(map){
   }
 }
 
+// マーカーのクリックのイベント追加
 function add_event_to_marker(marker, infoWindow, index) {
     var item = RESTAURANT_list[index];
     var restaurantTypes = document.getElementById("restaurantTypes");
@@ -131,6 +134,7 @@ function handleLocationError(browserHasGeolocation, infoWindow, pos) {
   infoWindow.open(map);
 }
 
+//ルート計算
 function calcRoute(directionsService, directionsRenderer) {
   var request = {
     origin: start,
@@ -144,6 +148,7 @@ function calcRoute(directionsService, directionsRenderer) {
   .catch((e) => window.alert("Click Current Location and Restaurant Pin"));
 }
 
+//Type fiter panel による Pin のvisible
 function displayFilter(markers){
   for (var i = 0; i < markers.length; i++){
     var types=RESTAURANT_list[i]["types"]
